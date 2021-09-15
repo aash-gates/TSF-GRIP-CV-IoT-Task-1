@@ -1,9 +1,6 @@
 ### Task -1:  Object Detection using YOLO V3
-##### Note:
-Inside this repository I not added weights file so you need to download it from <a href = "https://pjreddie.com/media/files/yolov3.weights">Link</a> and paste it in Yolov3-coco folder and then follow below steps.<br><Br>
-#### Steps for use.
 1- Clone the repository.<Br><Br>
-  <code>https://github.com/RizwanMunawar/Spark-Foundation-Internship-Tasks.git</code><br><Br>
+  <code>https://github.com/aash-gates/TSF-GRIP-CV-and-IoT-Task-1.git</code><br><Br>
 2- open Anaconda prompt.<Br><Br>
 3- Move to clone folder.<br><Br>
   <code>
@@ -19,8 +16,7 @@ Inside this repository I not added weights file so you need to download it from 
 6- For Real Time Detection <br><br>
     <code>python yolo.py</code><br><Br>
 
-Facebook post <a href = "https://web.facebook.com/100039141699956/videos/390480528933334/">Link</a><br><Br>
-youtube video <a href = "https://www.youtube.com/watch?v=GvqqIjJQ1hk">Link</a><bR><br> 
-  Linkedin Post <a href = "https://www.linkedin.com/posts/muhammadrizwanmunawar_thesparkfoundation-gripdec2020-machinelearning-activity-6740927772924899328-32B_">Link</a>
+My Personal Website: <br><br><a href = "http://aashgates.c1.biz">Link</a><bR><br> 
+  Linkedin Post <a href = "https://www.linkedin.com/posts/aashgates_thesparkfoundation-machinelearning-deeplearning-activity-6843963113939845120-MKEL">Link</a>
 
 
