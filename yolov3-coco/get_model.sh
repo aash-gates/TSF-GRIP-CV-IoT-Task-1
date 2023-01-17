@@ -7,3 +7,4 @@
 # └── datasets
 #     └── coco  ← downloads here
 
+# Download/unzip labels
