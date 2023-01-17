@@ -11,3 +11,4 @@
 d='../datasets' # unzip directory
 url=https://github.com/ultralytics/yolov5/releases/download/v1.0/
 f='coco2017labels.zip' # or 'coco2017labels-segments.zip', 68 MB
+echo 'Downloading' $url$f ' ...'
