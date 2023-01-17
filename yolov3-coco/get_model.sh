@@ -1,4 +1,3 @@
-# http://pjreddie.com/yolo/
 
 echo 'Getting the YOLOv3 model'
 echo 'Starting Download...'
