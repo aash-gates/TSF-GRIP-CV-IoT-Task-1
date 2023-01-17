@@ -1,4 +1,5 @@
 #!/bin/bash
+# YOLOv3 🚀 by Ultralytics, GPL-3.0 license
 
 echo 'Getting the YOLOv3 model'
 echo 'Starting Download...'
