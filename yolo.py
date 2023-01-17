@@ -84,7 +84,6 @@ if __name__ == '__main__':
 
 	net = cv.dnn.readNetFromDarknet(FLAGS.config, FLAGS.weights)
 
-	layer_names = [layer_names[i[0] - 1] for i in net.getUnconnectedOutLayers()]
         
 	if FLAGS.image_path is None and FLAGS.video_path is None:
 	    print ('Neither path to an image or path to video provided')
