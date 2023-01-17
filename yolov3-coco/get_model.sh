@@ -4,6 +4,7 @@
 # Example usage: bash data/scripts/get_coco.sh
 # parent
 # ├── yolov3
+# └── datasets
 
 echo 'Getting the YOLOv3 model'
 echo 'Starting Download...'
