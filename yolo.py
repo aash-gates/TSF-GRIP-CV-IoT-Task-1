@@ -87,7 +87,6 @@ if __name__ == '__main__':
 layer_names = net.getLayerNames()
 layer_names = [layer_names[i-1] for i in net.getUnconnectedOutLayers()]
         
-	    print ('Starting Inference on Webcam')
 
 	if FLAGS.image_path:
 		try:
