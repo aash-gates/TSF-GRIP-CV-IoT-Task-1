@@ -1,4 +1,3 @@
-# and is made available from their website
 # http://pjreddie.com/yolo/
 
 echo 'Getting the YOLOv3 model'
