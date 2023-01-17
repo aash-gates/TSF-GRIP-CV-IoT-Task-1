@@ -87,6 +87,7 @@ if __name__ == '__main__':
 layer_names = net.getLayerNames()
 layer_names = [layer_names[i-1] for i in net.getUnconnectedOutLayers()]
         
+if FLAGS.image_path is None and FLAGS.video_path is None:
 
 	if FLAGS.image_path:
 		try:
