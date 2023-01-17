@@ -8,3 +8,4 @@
 #     └── coco  ← downloads here
 
 # Download/unzip labels
+d='../datasets' # unzip directory
