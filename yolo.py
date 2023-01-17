@@ -89,6 +89,7 @@ layer_names = [layer_names[i-1] for i in net.getUnconnectedOutLayers()]
         
 if FLAGS.image_path is None and FLAGS.video_path is None:
 	print ('Neither path to an image or path to video provided')
+	print ('Starting Inference on Webcam')
 
 	if FLAGS.image_path:
 		try:
