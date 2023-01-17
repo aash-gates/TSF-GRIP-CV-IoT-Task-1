@@ -7,4 +7,3 @@
 # └── datasets
 #     └── coco  ← downloads here
 
-echo 'Download completed successfully!!'
