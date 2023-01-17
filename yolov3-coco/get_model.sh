@@ -7,6 +7,5 @@
 # └── datasets
 #     └── coco  ← downloads here
 
-echo 'Starting Download...'
 wget --no-check-certificate https://pjreddie.com/media/files/yolov3.weights
 echo 'Download completed successfully!!'
