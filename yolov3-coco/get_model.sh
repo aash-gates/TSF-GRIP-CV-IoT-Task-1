@@ -23,3 +23,4 @@ f3='test2017.zip'  # 7G, 41k images (optional)
 for f in $f1 $f2; do
   echo 'Downloading' $url$f '...'
   curl -L $url$f -o $f && unzip -q $f -d $d && rm $f &
+done
