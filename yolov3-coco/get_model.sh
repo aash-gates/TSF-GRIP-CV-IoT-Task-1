@@ -15,3 +15,4 @@ echo 'Downloading' $url$f ' ...'
 curl -L $url$f -o $f && unzip -q $f -d $d && rm $f &
 
 # Download/unzip images
+d='../datasets/coco/images' # unzip directory
