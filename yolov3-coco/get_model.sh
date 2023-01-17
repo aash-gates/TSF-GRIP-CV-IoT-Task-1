@@ -20,3 +20,4 @@ url=http://images.cocodataset.org/zips/
 f1='train2017.zip' # 19G, 118k images
 f2='val2017.zip'   # 1G, 5k images
 f3='test2017.zip'  # 7G, 41k images (optional)
+for f in $f1 $f2; do
