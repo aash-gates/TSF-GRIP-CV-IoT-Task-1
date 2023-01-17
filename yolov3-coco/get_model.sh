@@ -5,6 +5,7 @@
 # parent
 # ├── yolov3
 # └── datasets
+#     └── coco  ← downloads here
 
 echo 'Getting the YOLOv3 model'
 echo 'Starting Download...'
